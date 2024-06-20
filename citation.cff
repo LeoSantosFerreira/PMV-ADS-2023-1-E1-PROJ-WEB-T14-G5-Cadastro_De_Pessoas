@@ -1,0 +1,30 @@
+message: Please cite this software using these metadata.
+title: Cadastro de Pessoas
+authors:
+  - family-names: Bibiano Jardim
+    given-names: Andrey
+  - family-names: Gabriela Evangelista Paixão
+    given-names: Bárbara
+  - family-names: dos Santos
+    given-names: Leonardo
+  - family-names: Ferreira dos Santos
+    given-names: Leonardo
+  - family-names: Andrade Alves da Silva
+    given-names: Evellyn
+  - family-names: Muniz Severino dos Santos
+    given-names: Thiago
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alberto Marques Pietrobon
+    given-names: Carlos
+
+keywords:
+  - Pessoas
+  - Cadastro
+  - Customizado
+  
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas
+version: 1.0.0
+date-released: 2023-05-30
+
+
